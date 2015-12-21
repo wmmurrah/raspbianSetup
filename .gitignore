@@ -4,3 +4,14 @@
 # ... but these:
 !.gitignore
 !.emacs
+
+# solarized theme
+!.emacs.d/themes/solarized/LICENSE
+!.emacs.d/themes/solarized/Makefile
+!.emacs.d/themes/solarized/README.md
+!.emacs.d/themes/solarized/color-theme-solarized-pkg.el
+!.emacs.d/themes/solarized/color-theme-solarized.el
+!.emacs.d/themes/solarized/ert-tests
+!.emacs.d/themes/solarized/makepkg.sh
+!.emacs.d/themes/solarized/solarized-definitions.el
+!.emacs.d/themes/solarized/solarized-theme.el
